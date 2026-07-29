@@ -1,0 +1,10 @@
+{
+  "name": "nim-browser-agent",
+  "version": "0.10.0",
+  "private": true,
+  "type": "module",
+  "description": "Chrome extension that lets a vision-language model drive the browser.",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\""
+  }
+}
